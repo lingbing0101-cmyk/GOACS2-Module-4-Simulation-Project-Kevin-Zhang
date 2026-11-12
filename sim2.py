@@ -7,7 +7,6 @@ TITLE = "Simulation 2"
 RADIUS = 7
 CELL_COUNT = 50
 
-
 class Point:
     def __init__(self, x, y):
         self.x = x
